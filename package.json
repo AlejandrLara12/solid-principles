@@ -1,0 +1,20 @@
+{
+  "name": "solid-principles",
+  "version": "1.0.0",
+  "description": "## S -  ## O -  ## L -  ## I -  ## D - Dependency Inversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandrLara12/solid-principles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AlejandrLara12/solid-principles/issues"
+  },
+  "homepage": "https://github.com/AlejandrLara12/solid-principles#readme"
+}
